@@ -4,7 +4,7 @@
 
 逆向工程分析技能，支持 40+ 种 AI 编程工具。
 
-**专为 [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) 设计** - 从 IDA 导出反编译结果，然后使用 AI 编程工具进行分析。
+**专为 [IDA-NO-MCP](https://github.com/KorsChen/IDA-NO-MCP) 设计** - 从 IDA 导出反编译结果，然后使用 AI 编程工具进行分析。
 
 ## 包含的技能
 
@@ -22,7 +22,7 @@
 ## 安装
 
 ```bash
-npx skills add P4nda0s/reverse-skills
+npx skills add KorsChen/reverse-skills
 ```
 
 ### 更新与卸载

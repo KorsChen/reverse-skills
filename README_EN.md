@@ -4,7 +4,7 @@ English | [中文](README.md)
 
 Reverse engineering analysis skills, supporting 40+ AI coding agents.
 
-**Designed to work with [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)** - Export IDA decompilation results, then analyze with your AI coding agent.
+**Designed to work with [IDA-NO-MCP](https://github.com/KorsChen/IDA-NO-MCP)** - Export IDA decompilation results, then analyze with your AI coding agent.
 
 ## Skills Included
 
@@ -22,7 +22,7 @@ Reverse engineering analysis skills, supporting 40+ AI coding agents.
 ## Installation
 
 ```bash
-npx skills add P4nda0s/reverse-skills
+npx skills add KorsChen/reverse-skills
 ```
 
 ### Update & Remove

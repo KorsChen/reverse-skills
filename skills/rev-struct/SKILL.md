@@ -28,7 +28,7 @@ Option A — IDA Pro MCP (recommended):
   Connect the IDA Pro MCP server so Claude can query IDA directly.
 
 Option B — IDA-NO-MCP export:
-  1. Download plugin: https://github.com/P4nda0s/IDA-NO-MCP
+  1. Download plugin: https://github.com/KorsChen/IDA-NO-MCP
   2. Copy INP.py to IDA plugins directory
   3. Press Ctrl-Shift-E in IDA to export
   4. Open the exported directory with Claude Code
